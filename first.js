@@ -5,7 +5,7 @@ const quizData = [
    b: "Shyama Prasad Mukharji",  
    c: "Sundarlal Bahuguna",  
    d: "Birsa Munda",  
-   correct: "d",  
+   correct: "c",  
   },  
   {  
    question: "(2). Which of the following two District of Madhya Pradesh borders Gujarat state?",  
